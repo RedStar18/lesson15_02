@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VS 2026\\lesson15_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC8244F-8635-45A0-8027-E704F8151F99}|lesson15_02\\lesson15_02.vcxproj|F:\\VS 2026\\lesson15_02\\lesson15_02\\lesson15_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DC8244F-8635-45A0-8027-E704F8151F99}|lesson15_02\\lesson15_02.vcxproj|solutionrelative:lesson15_02\\lesson15_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lesson15_02.cpp",
+              "DocumentMoniker": "F:\\VS 2026\\lesson15_02\\lesson15_02\\lesson15_02.cpp",
+              "RelativeDocumentMoniker": "lesson15_02\\lesson15_02.cpp",
+              "ToolTip": "F:\\VS 2026\\lesson15_02\\lesson15_02\\lesson15_02.cpp",
+              "RelativeToolTip": "lesson15_02\\lesson15_02.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-08T14:05:35.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
